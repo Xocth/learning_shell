@@ -8,7 +8,7 @@ Linux native shell and the daily driver for most cyber security work. Excels at 
 
 Windows native shell, essential for working in or against Windows environments — particularly anything involving Active Directory. Unlike bash which pipes plain text, PowerShell pipes objects, meaning data is already structured and queried with cmdlets like Where-Object and Select-Object.
 
---
+---
 
 ## Setup
 Windows 11 Powershell, VS Code Remote SSH --> Debian
